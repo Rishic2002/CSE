@@ -1,0 +1,1 @@
+#WAP to represent data required for "Job Sequencing with Deadlines" using dataclass

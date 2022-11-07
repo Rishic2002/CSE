@@ -1,0 +1,1 @@
+# Design a "Graph" class that represent a Graph where edges are represented as {Node1: (Node2, Weight1), Node2: (Node3, Weight2)}
